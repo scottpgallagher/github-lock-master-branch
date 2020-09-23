@@ -10,3 +10,4 @@ Enhancements:
 1. Check the master branch isn't empty
 2. Verify the master branch can't be committed to
 3. Additional notifications (ie Slack notification)
+4. Add code to Jenkinsfile to perform API actions
